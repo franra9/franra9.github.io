@@ -106,8 +106,8 @@ analytics:
 author:
   name             : "Francesc Roura Adserias"
   avatar           : "/assets/images/bio-photo.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Atmospheric scientist"
-  location         : "Tirol"
+  bio              : "Atmospheric scientist, currently in BSC, #DestinationEarth"
+  location         : "Catalonia"
   email            :
   links:
     - label: "Email"
