@@ -16,9 +16,9 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Francesc Roura Adserias -elmeteoroleg-"
+title                    : "ElMeteoròleg"
 title_separator          : "-"
-subtitle                 : # site tagline that appears below site title in masthead
+subtitle                 : "Francesc Roura Adserias' personal page" # site tagline that appears below site title in masthead
 name                     : "Francesc Roura Adserias"
 description              : "Climate, meteorology and thoughts"
 url                      : "https://franra9.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
