@@ -5,7 +5,7 @@ header:
   image: /assets/images/banner2.jpg
 ---
 
-# Welcome to my personal page! 
+Welcome to my personal page! 
 
 I am happy that you found me, even if it was not on purpose! :)
 
