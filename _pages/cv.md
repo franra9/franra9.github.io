@@ -1,10 +1,18 @@
 ---
-title: "CV"
-permalink: /cv/
+title: "Resume"
+permalink: /resume/
 layout: single
 ---
 
-# My CV
+** WARNING! This parts contains an exhaustive list with all my professional activites ordered chronologically. To know me better, check the "resume" tab :) **
 
-This is my CV page content.
 
+# 2025
+
+# 2024
+
+# 2023
+
+# 2022
+
+# 2021
