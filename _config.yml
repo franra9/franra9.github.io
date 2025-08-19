@@ -113,12 +113,6 @@ author:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
       url: "mailto:francescrouradserias@gmail.com"
-    - label: "Website"
-      icon: "fas fa-fw fa-link"
-      url: "https://www.linkedin.com/in/francescroura/"
-    - label: "Linkedin"
-      #icon: "fab fa-fw fa-twitter-square"
-      url: "https://www.linkedin.com/in/francescroura/"
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
       # url: "https://facebook.com/"
@@ -128,7 +122,9 @@ author:
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       # url: "https://instagram.com/"
-
+    - label: "LinkedIn"
+      icon: "fab fa-linkedin"
+      url: "https://www.linkedin.com/in/francescroura/"
 # Site Footer
 footer:
   links:
