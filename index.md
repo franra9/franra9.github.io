@@ -11,6 +11,11 @@ I am happy that you found me, even if it was not on purpose! :)
 
 As the title states "el meteoròleg" (the meteorologist) I sometimes write stuff about meteorology and climate. Not regularly, only when I find time and the motivtion to do it.
 
+<p align="center">
+  <img src="/assets/images/bio-photo.jpg" alt="" width="50%">
+</p>
+
+
 __
 
 

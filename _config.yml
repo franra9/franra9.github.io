@@ -106,7 +106,7 @@ analytics:
 author:
   name             : "Francesc Roura Adserias"
   avatar           : "/assets/images/bio-photo.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Atmospheric scientist, currently in BSC, #DestinationEarth"
+  bio              : "(Atmospheric sciences & computational workflows & wind analyst) @BSC"
   location         : "Catalonia"
   email            :
   links:
@@ -115,10 +115,10 @@ author:
       url: "mailto:francescrouradserias@gmail.com"
     - label: "Website"
       icon: "fas fa-fw fa-link"
-      # url: "https://your-website.com"
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/elmeteoroleg"
+      url: "https://www.linkedin.com/in/francescroura/"
+    - label: "Linkedin"
+      #icon: "fab fa-fw fa-twitter-square"
+      url: "https://www.linkedin.com/in/francescroura/"
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
       # url: "https://facebook.com/"
@@ -156,6 +156,7 @@ footer:
 include:
   - .htaccess
   - _pages
+  - /assets/css/custom.css
 exclude:
   - "*.sublime-project"
   - "*.sublime-workspace"
