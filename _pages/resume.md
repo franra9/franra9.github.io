@@ -66,13 +66,7 @@ header:
 
 ---
 
-## Other Activities
-
-### Volunteer:
--  
-
-### **Scientific Communications**
-- [Climate Services for the Retail Sector: The Filomena’s Case, EGU General Assembly (2021)](https://meetingorganizer.copernicus.org/EGU21/EGU21-15813.html)
-- [An Overview of the Analysis of Precipitation Processes in the Eastern Ebro Subbasin (WISE-PreP) Project, MetMed 2021](https://www.hymex.fr/liaise/LIAISE_pres/MetMed2021_Bech_et_al.pdf)
-
+### **Scientific Publications**
+- See [Orcid](https://www.hymex.fr/liaise/LIAISE_pres/MetMed2021_Bech_et_al.pdf)
+- See [Google Scholar](https://scholar.google.com/citations?view_op=list_works&hl=ca&user=rcxt8RoAAAAJ&gmla=AH8HC4xVL44vyQDtDed-0hpwgLxZfQYGRTwQIWa8uhoT2-4BRM0hON4_iAJ9EewHua7ZXi8LFbvozA9NX5EGAe1HPlzAwtQK5ZGe18S145nePAKw31P2)
 
