@@ -31,5 +31,5 @@ El dia 18, per contra, el vent s'ha mantingut de component oest durant tot el di
 
 Francesc Roura Adserias
 
-PD: *Els meteoròlegs ens ho passem molt bé aquest dies, però personalment no puc deixar de banda el que representa que es trenquin aquests récords de temperatura: que no estem fent prou per combatra el canvi climàtic, i que si no ho aconseguim, prendrem mal.*
+PD: *Els meteoròlegs ens ho passem molt bé aquest dies, però personalment no puc deixar de banda el que representa que es trenquin aquests récords de temperatura: que no estem fent prou per combatre el canvi climàtic, i que si no ho aconseguim, prendrem mal.*
 
