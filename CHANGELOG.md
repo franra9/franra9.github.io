@@ -1,6 +1,6 @@
-## Unreleased
+## Agost 2025
 
-- Clean the repo
+- Netejat repositori i afegir-hi cv i resume actualitzats
 
 ### Bug Fixes
 
