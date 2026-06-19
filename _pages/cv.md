@@ -11,26 +11,37 @@ header:
 
 ** WARNING! This parts contains an exhaustive list with all my professional activites ordered chronologically. To know me better, check the "resume" tab :) **
 
+# 2026
+
+* WindEurope Annual meeting. Presentation in the session devoted to climate and energy and presented e-poster. Madrid, April.
+* 5th Destination Earth User Exchange meeting, Brussels, June 2026.
+* Technical lead of the BSC's DestinE energy use case.
 
 # 2025
 
-* European Geociences Union (EGU) 2025 (Vienna, April).
-* DestinE Anual meeting (Bologna) (September)
+* European Geociences Union (EGU) 2025 (Vienna, April). Data streaming and containerisation of climate workflows. Presentation of a poster and contributions to other 3.
+* DestinE Anual meeting (Bologna) (September). Presentation of a poster representing ClimateDT workflow and energy use case.
+* Attended Jornades Fontserè. Presented a poster.
 
 # 2024
 
-* Promoted to HPC worflows engineer. Started to take part in the renewable energies team on renewable energies in the BSC.
+* Promoted to HPC worflows engineer. Started to take part in the renewable energies team on renewable energies in the BSC. Leading responsabilities in A9 sub-workpackage.
 * European Geociences Union (EGU) 2024 (Vienna, April)
+* Attended the DestinE Kick off meeting in Helsinki, May.
+* Attended 3rd DestinE User Exchange meetig, Darmstadt, spring. Organization of the energy session.
+* DestinE Hackathon in Hamburg, November.
+* Attended Jornades Fontserè. Presented a poster.
 
 # 2023
 
 * Started new positopn as Junior HPC workflows engineer. Barcelona. Barcelona Supercomputing Center (BSC). Jan 2023 - Now. What I did: Develop the workflow of the Climate digital twin in the framework of Destination Earth. Specifically building the interface from the workflow to the users. What I learnt: How to work in an interdisciplinary environment with partners from different European research
 centers. Technical skills: HPC workflows orchestration, Autosubmit, Git. Several poster presentations regarding streaming and renewable energy.
 * Presented MSc Thesis: "Toward ice-free Pyrenees: the case of Aneto glacier"
+* Attended Jornades Fontserè.
 
 # 2022
 
-* 6th OGGM workshop Finse, Norway. Sep 2022. Presentation of my contribution to OGGM and my master thesis.
+* 6th OGGM workshop on glacier modeling, Finse, Norway. Sep 2022. Presentation of my contribution to OGGM and my master thesis.
 
 # 2021
 

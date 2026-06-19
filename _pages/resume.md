@@ -12,6 +12,7 @@ header:
 - **Email:** francescrouradserias@gmail.com    
 - **LinkedIn:** [francescroura](https://www.linkedin.com/in/francescroura)    
 - **GitHub:** [franra9](https://github.com/franra9)  
+- **Personal page** https://franra9.github.io/
 
 ---
 
@@ -63,6 +64,14 @@ header:
 ### **Garrotxa High School**  
 **Batxillerat** (2012 - 2014)  
 - Qualification: 9.19/10.
+
+### I like the show!
+
+Image of windeurope conference:
+TBA
+
+Image of DestinE 5th user exchange meeting:
+TBA
 
 ---
 
