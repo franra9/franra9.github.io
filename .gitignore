@@ -7,3 +7,5 @@ vendor
 node_modules
 **/.jekyll-cache
 **/_site
+__pycache__/
+*.pyc
