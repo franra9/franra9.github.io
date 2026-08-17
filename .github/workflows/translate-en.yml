@@ -1,0 +1,55 @@
+name: Translate English (PR)
+
+on:
+  workflow_dispatch:
+  push:
+    branches: [gh-pages]
+    paths:
+      - "index.html"
+      - "_pages/**.md"
+      - "_posts/**.md"
+      - "scripts/translate_to_en.py"
+      - ".github/workflows/translate-en.yml"
+      - "!_pages/**/*-en.md"
+      - "!_posts/**/*-en.md"
+      - "!en/**"
+
+permissions:
+  contents: write
+  pull-requests: write
+
+jobs:
+  translate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Translate content to English
+        env:
+          DEEPL_API_KEY: ${{ secrets.DEEPL_API_KEY }}
+          OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
+        run: python scripts/translate_to_en.py
+
+      - name: Open PR for review
+        uses: peter-evans/create-pull-request@v7
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+          branch: translate/english
+          title: Update English translations
+          commit-message: Update English translations
+          body: |
+            Auto-generated English copies of the home page, CV, resume, and posts.
+
+            Please review the translations, edit anything that looks off, then merge.
+            After merge they will be live at `/en/`, `/en/cv/`, `/en/resume/`, and `/en/<post>/`.
+
+            Source files are left unchanged. English files are only regenerated when the source hash changes, so hand edits in this PR (or later) are kept until you change the original Catalan/English source.
+          add-paths: |
+            en/
+            _pages/*-en.md
+            _posts/*-en.md
+            _data/navigation.yml

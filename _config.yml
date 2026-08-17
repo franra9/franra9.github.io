@@ -105,7 +105,7 @@ analytics:
 # Site Author
 author:
   name             : "Francesc Roura Adserias"
-  avatar           : "/assets/images/bio-photo.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/assets/images/foto_portada.jpeg"
   bio              : "(Atmospheric sciences & computational workflows & wind analyst) @BSC"
   location         : "Catalonia"
   email            :

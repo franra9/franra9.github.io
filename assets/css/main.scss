@@ -17,3 +17,21 @@ search: false
   object-fit: cover;
 }
 
+/* Slightly wider central text column */
+#main {
+  @media (min-width: 1280px) {
+    max-width: 1440px;
+  }
+}
+
+.archive,
+.page {
+  @media (min-width: 1024px) {
+    padding-right: 4em;
+  }
+
+  @media (min-width: 1280px) {
+    padding-right: 5em;
+  }
+}
+
